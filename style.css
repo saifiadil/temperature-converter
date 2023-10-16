@@ -1,0 +1,123 @@
+.main{
+    border: 2px solid black;
+    height: 4in;
+    background-color: rgb(28, 18, 32);
+    width: max-content;
+    margin: auto;
+    
+}
+/* input{
+    display: flex;
+} */
+h1{
+    margin: 10px 20px;
+    /* text-shadow: 2px 3px 4px white; */
+    background-color: transparent;
+    color: white;
+    font-weight: 900;
+    
+}
+.black{
+background-color: black;
+}
+.heading{
+    text-transform: uppercase;
+    box-shadow: 3px 4px 4px rgb(250, 80, 8);
+    font-size: 22px;
+}
+
+.inner{
+    /* background-color: red; */
+    width: 2.6in;
+    margin: auto;
+    text-align: center;
+    height: 1in;
+}
+
+.outer{
+    /* background-color: green; */
+    height: 1.6in;
+
+
+
+}
+
+#result{
+    height: 1in;
+    border: none;
+    background-color: transparent;
+    box-shadow: 2px 3px 9px rgb(250, 167, 13);
+    color: white;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 7px;
+    border-radius: 3px;
+}
+
+.res{
+    color: white;
+    font-weight: 900;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-variant: small-caps;
+   
+}
+
+
+
+.up{
+    color: white;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: capitalize;
+    line-height: 5px;
+}
+
+#tempInput{
+    margin-top: 7px;
+    height: 22px;
+    background-color: transparent;
+    border: none;
+    box-shadow: 2px 3px 10px orangered;
+    color: white;
+    font-weight: 900;
+}
+
+#fromUnit{
+    background-color: transparent;
+    border: none;
+    box-shadow: 3px 3px 4px rgb(255, 34, 0);
+    color: white;
+    text-align: center;
+    height: 20px;
+    font-weight: 900;
+}
+
+
+
+#convert{
+background-color: rgb(15, 81, 15);
+border: none;
+box-shadow: 3px 3px 4px rgb(255, 60, 17);
+height: 22px;
+text-align: center;
+color: white;
+font-weight: 900;
+border-radius: 5px;
+text-transform: uppercase;
+margin-left: 10 px;
+}
+#reset{
+    background-color: rgb(191, 18, 18);
+    border: none;
+    box-shadow: 3px 3px 9px rgb(255, 72, 0);
+    height: 22px;
+    text-align: center;
+    color: white;
+    font-weight: 900;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+.in{
+    margin-top: 20px;
+}
